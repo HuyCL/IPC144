@@ -1,0 +1,16 @@
+				Milestone 2 Reflection
+Name: Huy Lam (114705162)		
+
+1. Can you think of a more efficient way to ask a user to add the required information
+to each data field?
+
+One of the way I think I can be more efficient is to create separate functions for user
+informations. This will help make the main source code significantly more organised and 
+easier to look and navigate.
+
+2. Explain why a C string that is required to store up to 25 characters must be capable
+of storing 26 characters.
+
+A C string must be terminated with '\0'. If a string is intended for 25 characters,
+the array must be able to hold 26 characters because an extra element is require
+to hold the NULL value.

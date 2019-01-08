@@ -1,0 +1,21 @@
+				Milestone 4 Reflection
+Name: Huy Lam (114705162)
+
+1) Briefly explain why you think this assignment has asked you to code a struct,
+Contact, that holds three other structs as data members.
+
+I think the reason why the assignment asked me to use a struct that contains other
+structs is because it is important for me to know how to utilise struct in various
+ways to accomplish tasks. Also, I think having interrelated structs stored within a
+struct will improve my data organization and efficiency.
+
+2) What was the most difficult part of this assignment?
+
+The most difficult part for me was figuring out how to pull structs from struct Contact
+to create functions. I think the scanf issue in milestone 2 would have been the hardest
+for me but thanks to advice and tips from the professor, it wasn't as hard.
+
+3) How long did it take you to complete Milestone4?
+
+Milestone 4 took me under 2 hours since most of the functions were already completed
+in milestone 2.

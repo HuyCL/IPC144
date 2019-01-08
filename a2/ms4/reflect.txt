@@ -1,0 +1,13 @@
+				A2MS4 Reflection
+
+3) The two functions findContactIndex and getTenDigitPhone helped reducing the size
+of my functions significantly. The two functions makes my code for other functions less
+complex and readable. Since my code is readable, I was able to easily navigate around
+my code.
+
+4) Through the second assignment, I have a much better understanding of how functions
+works. When the instructor, Fardad, first introduced the class about functions, I was
+completely lost and overwhelmed. But now, I learned how to pass structs and arrays to
+functions and properly use them. Also, I was able to put some of the string.h functions
+to use when doing my assignment. Overall, it was a struggle to complete the assignment
+but it was a very good practice.

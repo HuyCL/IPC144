@@ -1,0 +1,17 @@
+				A2MS2 Reflection
+Name: Huy Lam (114705162)
+
+1) In 3 or 4 sentences explain the term "function" and briefly discuss the need for
+functions in any language?
+
+A function is a block of code that is separate from the main code. Every function
+is programmed to perform specific tasks. Functions are convenient and efficient because
+it can be reused on different programs.
+
+2) Briefly explain why you think the "helper" functions are in a different module and
+why those functions were not included in the "contacts" module?
+
+I think the reason is because it helps ease up the navigation process in "contacts" 
+module. The functions were separated accordingly, primary and secondary. The secondary
+functions help reducing the size of the primary function so when writing 
+codes, there won't be chunks of code in the primary functions.
