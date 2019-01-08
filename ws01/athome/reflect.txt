@@ -1,0 +1,5 @@
+						AT-HOME REFLECTION
+
+	After completing my first workshop, I learned how to use the basic functions of Visual Studio to code, edit, and execute a C program.
+The second outcome after the workshop is that I learned how to get access to a remote host using an SSH client. Lastly, I learned how to use SFTP 
+client to transfer code file(s) between two servers, in my case, from my desktop to the host matrix.

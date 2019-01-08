@@ -1,0 +1,21 @@
+				Quiz 1 Reflection
+Name: Huy Lam
+Email: hlam25@myseneca.ca
+
+	
+Question #3 - What is an Address in a memory?
+
+Answer: Address is the location of the bits in memory.
+Correction: Address is the unique address of each byte of RAM.
+
+
+Question #4 - How many Megabytes in a Gigabyte?
+
+Answer: 1000 Megabytes in a Gigabyte.
+Correction: There are 1024 Megabytes in a Gigabyte.
+
+Question #6 - What is the difference between C and Assembly Languages?
+
+Answer: C Language is the language that all program understands, and only specific program can understand Assembly Languages.
+Correction: C Language is a high level language and Assembly Language is a low level.
+				
