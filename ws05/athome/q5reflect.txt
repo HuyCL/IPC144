@@ -1,0 +1,55 @@
+				Quiz 5
+
+2) Write a function with the following prototype:
+
+Answer: (void)getValidDbl(void) {
+		while (getFpDbl > maximumValue || getFpDbl < minimumValue) {
+		printf("Error");
+		getFpDbl = 0;
+		printf("Enter again");
+		scanf("lf", &getFpDbl;
+		}
+	return;
+	}
+
+Correction: double getValidDbl (double min, double max) {
+           	double value = getFpDbl();
+		while (value < min || value > max) {
+			printf("Error, try again\n");
+			value = getFpDbl();
+		}
+		return value;
+	     }
+
+3) Create a structure for an Employee that has the following information:
+
+Answer: struct employee {
+		int number;
+		while (number > 999999) {
+			printf("Enter again");
+		}
+		double salary;
+		int seniority;
+		while (seniority > 99) {
+			printf("Enter again");
+		}
+	}
+
+Correction: struct Employee {
+		int empNum;
+		double salary;
+		int seniority;
+		char name[31];
+	     }
+
+4) Instantiate the Structure in Question number 3 and call it "emp" and initialize the
+information to the following:
+
+Answer: struct emp
+
+Correction: struct emp Employee(void) {
+		emp.empNum = 123456;
+		emp.salary = 122334.45;
+		emp.seniority = 12;
+		emp.name = "John Smith";
+		}

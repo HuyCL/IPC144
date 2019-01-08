@@ -1,0 +1,32 @@
+				Quiz 2 Reflection
+Name: Huy Lam
+Email: hlam25@myseneca.ca
+
+Question #2: What is the value of A after these expressions (A, B, and C are integers)?
+B = 2;
+C = 3;
+A = B + C * 4;
+
+Answer: A = 24
+Correction: 2 + 3 * 4 = 14 = A
+
+Question #3: What is the value of A after these expressions (A, B, and C are integers)?
+B = 2;
+C = 3;
+A = C > B;
+
+Answer: A = 3
+Correction: A = 1 because the statement is true.
+
+Question #4: What A += B means?
+
+Answer: A + 1 is equal to B.
+Correction: A is equal to A + B.
+
+Question #7: What is the value of A after these expressions (A, B, and C are integers)?
+B = 5;
+C = 3;
+A = C == 3 && B < 3;
+
+Answer: A = 3
+Correction: A = 0 because (C == 3) is true but (B < 3) is false.

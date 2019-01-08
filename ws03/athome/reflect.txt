@@ -1,0 +1,19 @@
+				AT-HOME REFLECTION
+
+1) Name all the iteration constructs.
+
+The iteration constructs are while, do while, and for.
+
+2) In two or three sentences, explain the difference between a "do while" and a "while"
+loop?
+
+The order for 'while' construct is condition > sequence > change and 'do while' is
+sequence > change > condition. During a 'while' loop, the sequence will only execute 
+when the condition is met. For the 'do while' construct, the sequence will execute at 
+least once before considering the condition.
+
+3) In two or three sentences, explain what is meant by the term conditional expression?
+
+A conditional expression is a alternative path that contains a condition and two
+operands. When the condition is true, the expression will analyze the first operand,
+and when the condition is false, the express will take the second operand to analyze.

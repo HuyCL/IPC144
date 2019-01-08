@@ -1,0 +1,31 @@
+				Quiz 3/4 Reflection
+Name: Huy Lam
+Email: hlam25@myseneca.ca
+
+2 - What is the value of "A" after this loop is completed:
+int A = 10;
+while (A < 25) {
+   A++;
+}
+
+Answer: A = 24
+Correction: A = 25
+
+3 - What is the value of "A" after this loop is completed:
+int A = 0;
+while (A < 10) {
+   A+=3;
+}
+
+Answer: A = 9
+Correction A = 12
+
+7 - Create an array of 4 floats and initialize them to (3.1, 6.5, 2.5, 9.9)
+
+Answer: float dad [4] = (3.1, 6.5, 2.5, 9.9); (wrong bracket, supposed to be braces)
+Correction: float dad [4] = {3.1, 6.5, 2.5, 9.9}; 
+
+8 - Create an array of 2000 long integers and initialize them to zero:
+
+Answer: int dad [2000] = (0); (wrong bracket again)
+Correction: int dad [2000] = {0};

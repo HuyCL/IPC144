@@ -1,0 +1,19 @@
+				AT-HOME REFLECTION		Huy Lam (115705162)
+
+1) In one or two sentences, explain why the arrays in this program have to be declared to hold 10 elements?
+
+The arrays are declared to hold 10 elements because that is the maximum number of value a user can input, so
+the array needs to be big enough to contain each individual value.
+
+2) In two or three sentences, explain the advantages and disadvantages of using matching arrays?
+
+The advantage of using matching array is that it allows a variable to have a set number of elements.
+The disadvantage of using matching array is that it is not flexible, meaning the size of the array
+is fixed, data will be ignored if it exceeds the size of the array.
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+
+I would say that this portion of the workshop is hard, between just right and too hard.
+I think the reason why it is hard for me is because I did not fully understand what an array is and
+how to work with it. Due to that, I struggled to find the solution for this workshop; additionally,
+I misread the last part of at_home instruction.

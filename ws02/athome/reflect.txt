@@ -1,0 +1,15 @@
+				AT-HOME REFLECTION
+
+1. The most important thing I learned in this workshop is how to properly utilize
+each command and think logically to reach a solution and accomplish given task(s).
+
+2. It is important to add 0.005 to GST owing because it prevents certain compiler
+like matrix from truncating the value.
+
+3. By doing casting operation, I was able to change double variable(s) to int and that
+allowed me to use modulus operator on the variable to get a desire result.
+
+4. I think I was required to use modulus operator in this workshop is because it is 
+ESSENTIAL for me and anyone who codes to at least know how to PROPERLY use all the 
+OPERATORS provided by the program, even if you feel like you won't be using it in the
+future.
